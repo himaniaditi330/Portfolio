@@ -19,7 +19,7 @@
 	3. liscences
 	4. WebPages
   ## File
-    	1. README.md
+    1. README.md
 
 ## Web Pages
 ### It Contains 8 Homepages, total of 11 pages and 3 folders:  
@@ -66,9 +66,9 @@ It contains all the images used in the webpages.
 It contains all the js files which are linked in the webpages
 
 ## Consists of 5 images-
-  a. classie
-  b. jquery.fancybox
-  c. jquery-1.11.1.min
-  d. responsiveslides.min
-  e. wow.min
+  	a. classie
+  	b. jquery.fancybox
+  	c. jquery-1.11.1.min
+  	d. responsiveslides.min
+  	e. wow.min
   
