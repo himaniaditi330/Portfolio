@@ -1,7 +1,7 @@
 # Portfolio
  This is a portfolio of a faculty of Indian Institute of Information Technology, Lucknow.
 
-# Used Technologies
+## Used Technologies
 
 ## Languages
   1. HTML5
