@@ -12,17 +12,17 @@
 ## IDE & Tools
   1. XAMPP (Apache Server)
   
-# It Contains 8 Homepages, total of 1 md file and 4 folders: 
-  # Folders
+### It Contains 8 Homepages, total of 1 md file and 4 folders: 
+  ## Folders
 	1. assets
 	2. js
 	3. liscences
 	4. WebPages
-  # File
+  ## File
     1. README.md
 
-# Web Pages
-# It Contains 8 Homepages, total of 11 pages and 3 folders:  
+## Web Pages
+### It Contains 8 Homepages, total of 11 pages and 3 folders:  
 ## Homepages
   1. Home Page
   2. Research Interest 
