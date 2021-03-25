@@ -4,10 +4,10 @@
 ## Used Technologies
 
 ## Languages
-  1. HTML5
-  2. CSS3
-  3. JavaScript
-  4. PHP 
+	1. HTML5
+ 	2. CSS3
+  	3. JavaScript
+  	4. PHP 
 
 ## IDE & Tools
   1. XAMPP (Apache Server)
