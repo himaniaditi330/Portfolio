@@ -25,7 +25,7 @@
 <body>
 
 <!-- Include header bar-->
-
+  <?php include 'header.php';?>
 
 
 <!-- Include navigation bar-->
@@ -46,14 +46,14 @@
 <div class="row">
 
 <!-- Include side bar-->
-  
+  <?php include 'side.php';?>
   
   <div class="main">
   </div>
 </div>
 
 <!-- Include footer bar-->
-  
+  <?php include 'footer.php';?>
 
 </body>
 </html>
